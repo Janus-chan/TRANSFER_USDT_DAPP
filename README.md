@@ -1,7 +1,5 @@
 # Building Dapps With Ethers.js
 
-> Learn how to build your first Dapp with Ethers.js <br>
-> https://blog.logrocket.com/building-dapp-ethers-js/
 
 ## Info
 
